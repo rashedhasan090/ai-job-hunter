@@ -1,0 +1,95 @@
+{
+    "name": "Md Rashedul Hasan",
+    "email": "mhasan6@nebraska.edu",
+    "phone": "",
+    "linkedin": "https://www.linkedin.com/in/mdrashedulhasan",
+    "website": "https://www.mdrashedulhasan.me",
+    "github": "https://github.com/rashedhasan090",
+    "google_scholar": "",
+
+    "education": "PhD in Computer Science (expected Dec 2026), MS in CS (May 2026) — University of Nebraska–Lincoln. Advisor: Dr. Hamid Bagheri.",
+    "university": "University of Nebraska–Lincoln",
+    "highest_degree": "PhD (expected Dec 2026)",
+    "graduation_date": "December 2026",
+    "major": "Computer Science",
+    "gpa": "",
+
+    "target_roles": [
+        "AI/ML Research Scientist",
+        "Assistant Professor (Computer Science, Tenure-Track)",
+        "AI Engineer",
+        "Machine Learning Engineer",
+        "Research Scientist (Trustworthy AI / Formal Methods)",
+        "Applied Scientist"
+    ],
+
+    "research_areas": [
+        "Trustworthy AI",
+        "Software Verification & Formal Methods",
+        "LLM-based Program Repair",
+        "Neuro-symbolic Systems",
+        "System Security",
+        "AI for Software Engineering"
+    ],
+
+    "skills": [
+        "Python", "Java", "C/C++", "JavaScript",
+        "PyTorch", "TensorFlow", "HuggingFace Transformers",
+        "Z3 SMT Solver", "Alloy Analyzer", "TLA+",
+        "Docker", "Kubernetes", "AWS",
+        "Large Language Models", "Neural Networks", "Formal Verification",
+        "Bounded Model Checking", "Static Analysis",
+        "Linux", "Git", "CI/CD"
+    ],
+
+    "experience_summary": "PhD researcher with 9 publications at top venues (IEEE TSE, ACM FSE, IEEE/IFIP DSN, Springer EMSE). Distinguished Artifacts Award at DSN 2025. Security researcher recognized by DoD Security Hall of Fame, Twitter/X, Snapchat, and Glassdoor. Co-founder of CyberTrendz Inc. 4+ semesters teaching at UNL including Software Design, Secure Software Engineering, HCI, and Intro CS.",
+
+    "publications_summary": "9 publications: IEEE TSE 2026 (IF 5.6), ACM FSE 2025 (22% acceptance), IEEE/IFIP DSN 2025 (24% acceptance, Distinguished Artifacts Award), Springer EMSE, ACM AIware 2024. Research covers LLM-guided specification repair, neuro-symbolic verification, and AI-driven software dependability.",
+
+    "visa_status": "F-1 student visa. Eligible for STEM OPT (3 years). Pending EB2-NIW green card application.",
+    "visa_type": "F-1 OPT / STEM OPT (3 years)",
+    "us_work_authorized": true,
+    "needs_sponsorship": true,
+
+    "preferred_locations": [
+        "Any (US)",
+        "Remote",
+        "Major metro areas preferred"
+    ],
+
+    "min_salary": "Flexible — competitive with market rates",
+
+    "detailed_background": {
+        "awards": [
+            "Distinguished Artifacts Award — IEEE/IFIP DSN 2025",
+            "Dohrmann Fellowship — UNL",
+            "Milton E. Mohr Fellowship — UNL",
+            "Most Improved Doctoral Candidate — UNL 2024",
+            "DoD Security Hall of Fame",
+            "Twitter/X Security Acknowledgment",
+            "Snapchat Security Acknowledgment",
+            "Glassdoor Security Hall of Fame"
+        ],
+        "teaching": [
+            "CSCE 361: Software Design & Architecture",
+            "CSCE 478: Secure Software Engineering",
+            "CSCE 378: Human-Computer Interaction",
+            "CSCE 156: Intro to CS II"
+        ],
+        "key_projects": [
+            "AlloyASR: LLM-guided repair of Alloy formal specifications (IEEE TSE 2026)",
+            "NeuralORM: Transformer-based acceleration of formal tradeoff analysis (ACM FSE 2025)",
+            "Hybrid repair strategies for dependable specifications (DSN 2025)",
+            "LLM evaluation for specification repair (Springer EMSE 2025)"
+        ],
+        "tools_frameworks": [
+            "PyTorch", "TensorFlow", "HuggingFace", "Z3 SMT",
+            "Alloy Analyzer", "TLA+", "Docker", "Kubernetes", "AWS"
+        ],
+        "references": [
+            {"name": "Dr. Hamid Bagheri", "title": "Associate Professor, UNL", "relationship": "PhD Advisor", "email": "bagheri@unl.edu"},
+            {"name": "Dr. Md. Fokhray Hossain", "title": "Professor, Daffodil International University", "relationship": "Research Collaborator", "email": "drfokhray@daffodilvarsity.edu.bd"},
+            {"name": "Dr. Iftekhar Ahmed", "title": "Associate Professor, UC Irvine", "relationship": "Research Collaborator", "email": "iftekha@uci.edu"}
+        ]
+    }
+}
